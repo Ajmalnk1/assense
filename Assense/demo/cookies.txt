@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+blockshop-theme-beauty.myshopify.com	TRUE	/fr	FALSE	1999999999	localization	CA
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F%3F_bt%3DeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxpYkc5amEzTm9iM0F0ZEdobGJXVXRZbVZoZFhSNUxtMTVjMmh2Y0dsbWVTNWpiMjBHT2daRlZBPT0iLCJleHAiOiIyMDIzLTA5LTA3VDA3OjA5OjIyLjQwNloiLCJwdXIiOiJwZXJtYW5lbnRfcGFzc3dvcmRfYnlwYXNzIn19--f73bef248d4077144976630b4581143dc70421c7
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	y8VyKU74v1UPB2kTxbkTDYd.uINWMVz7Eu3x7ECCv84-1694079328-0-AU8hqca+Na0qleR84RIOseRry2alwTKQ8mEzCU+S9YVVPAfM5JcJn58vDUWfP9NiUbSsaklF/CQNfOArToCvkLk=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	555eecf6ca91595dddc26382239fd448
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	localization	CA
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	CAD
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22GB%22%2C%22sale_of_data_region%22%3Afalse%7D
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_y	77bbc71c-88de-44df-baf7-417005cb3e32
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_s	10b14fd9-cf6e-4fa5-b88e-6551b0599e18
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	77bbc71c-88de-44df-baf7-417005cb3e32
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	10b14fd9-cf6e-4fa5-b88e-6551b0599e18
+blockshop-theme-beauty.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

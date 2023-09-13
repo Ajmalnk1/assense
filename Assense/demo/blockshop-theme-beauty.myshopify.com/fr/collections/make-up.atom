@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/fr/collections/make-up.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2020-06-09T08:17:38-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+    <published>2020-06-09T08:17:38-07:00</published>
+    <updated>2020-06-09T08:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/luna-day-peach-lipstick"/>
+    <title>Astro Space Lipstick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/luna-01.jpg?v=1625749725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Triple Luxe formula is long lasting, natural and moisturising. Enriched with Avocado, Jojoba Oils and Vitamins C and E, it provides deep hydration while creating a barrier to lock in moisture. It also works to reduce the appearance of fine lines and wrinkles, for a smooth and supple smile.</p>
+<p>Instructions for use: Smile and gently swirl color over the cheekbones. Apply directly to lips from the bullet or with a lip. Glide onto the heart of lips, working outward towards the corners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>candy apple</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>mahogany</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>dark cherry</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>magma</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+    <published>2019-04-25T07:21:29-07:00</published>
+    <updated>2019-04-25T07:21:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/blush-brush-matt-black"/>
+    <title>Blush brush matt black</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Fude Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-brush-01-1.jpg?v=1556202092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Fude Beauty<br>
+        <strong>Type : </strong>Makeup Brushes<br>
+        <strong>Prix : </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush. <br><br>Instructions for use: Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face long the top of cheekbones, down the bridge of the nose and on the brow line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023864375</id>
+    <published>2019-04-25T07:21:20-07:00</published>
+    <updated>2019-04-25T07:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/rouge-noir-lipstick"/>
+    <title>Rouge Noir Lipstick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/lipstick-02-01.jpg?v=1591799606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Infused with optical diffusers to blur the appearance of imperfections, and saturates your pout in a lightweight veil of opaque lilac color. Enriched with vitamins A &amp; E, aloe vera, it really feels like putting silk on your lips. This lipstick now features added macadamia nut oil that contains antioxidants for a smooth, supple pout. <br><br>Instructions for use: Sweep the color over the lips direct from the bullet. Work the color from the heart of the lips to the corners.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023864375</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+    <published>2019-04-25T07:21:09-07:00</published>
+    <updated>2019-04-25T07:21:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/bright-blush-powder"/>
+    <title>Bright Blush Powder</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Castle Beauty Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-01-01.jpg?v=1586342003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Castle Beauty Co.<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush.</p>
+<p>Instructions for use:<br>Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Most loved</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+    <published>2019-04-25T07:20:51-07:00</published>
+    <updated>2019-04-25T07:20:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/swirl-lip-gloss"/>
+    <title>Swirl Lip Gloss</title>
+    <s:type>Lip Gloss</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-02-01.jpg?v=1556202054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Lip Gloss<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This creamy opaque gloss is enriched with lustrous Marine Collagen and Mustard Sprout Extract to replenish moisture, soften lines and enhance lips' natural plump. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+      <title>Bottle 200ml</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+      <title>Single-use x10</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+    <published>2019-04-25T07:20:48-07:00</published>
+    <updated>2019-04-25T07:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/space-glow-eyeshadow"/>
+    <title>Space glow eyeshadow</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-03-01.jpg?v=1556202051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Iconic stardust-inspired palette with 12 intensely-pigmented shades designed for every occasion and every mood.</span></p>
+<p><span>Shades: </span><span>White Noise, Metal Strange Magic, Higher Ground, Metal Electric Plum, Metal Violet Hour, Shimmer High Fidelity, Sparkle Twisted Violet, Black Charcoal. <br><br>Instructions for use:<br></span>Apply the highlighter from the brow bone, gliding down the center of the nose, across cheekbones and the bow of the lips Sweep the bronzer across cheek hollows, sides and the tip of your nose. Blend after application.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best seller ♥️</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

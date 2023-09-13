@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/fr/collections/at-home-beauty-essentials.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2021-07-08T06:28:28-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577873190967</id>
+    <published>2021-07-08T06:28:28-07:00</published>
+    <updated>2021-07-08T06:28:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/orsen-spot-treatment"/>
+    <title>ORSEN Spot Treatment</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-spot.jpg?v=1625750923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>ORSEN<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ORSEN's tinted anti-bacterial Clarifying Spot Treatments are essential for your makeup bag and designed to cover up blemishes and other signs of irritation. Currently available in eight shades (00-07) and formulated with an active complex of macular bioflavonoids, tea tree oil and zinc oxides, the Clarifying Spot Treatments help to diminish unwanted impurities.<br data-mce-fragment="1"><br data-mce-fragment="1">The Clarifying Spot Treatment is also available in a transparent formula.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577873190967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577870995511</id>
+    <published>2021-07-08T05:57:50-07:00</published>
+    <updated>2021-07-08T05:57:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/orsen-luxe-face-cream"/>
+    <title>Luxe Face Cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-01_1800x_473e5b9a-0603-44be-af20-2b73a2a782fd.jpg?v=1639577143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>ORSEN<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a Beyond Beauty product which means it has been sourced, tried and tested and finally declared one of the most new and innovative heroes out there.<br><br>ORSEN's anti-aging Face Cream will keep your skin hydrated and firm throughout the day. When used at night, you awaken to healthy-looking and refreshed skin 24/7. It quickly absorbs into the skin to give your complexion a radiant glow. Skullcap and Purslane are anti-aging powerhouses that help calm the skin and reduce visible signs of irritation.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577870995511</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+    <published>2020-11-11T09:09:47-08:00</published>
+    <updated>2020-11-11T09:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/nailboi-neutral-nail-polish"/>
+    <title>Nailboi Neutral Nail Polish</title>
+    <s:type>Nail Polishes</s:type>
+    <s:vendor>Nailboi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/nails--sea-nyph-01.jpg?v=1605114578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Nailboi<br>
+        <strong>Type : </strong>Nail Polishes<br>
+        <strong>Prix : </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">3-in-1 Colour technology that combines a base coat, rich colour and glossy top coat in one stroke, the nail varnish paints your tips with flawless, long-lasting and quick-drying colour that resists chips and fading for up to 10 days. Expect a professional, salon-worthy mani and pedi in 60 seconds.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$20</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Sea Nymph</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Flamingo</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Topless</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+    <published>2020-06-10T07:19:11-07:00</published>
+    <updated>2020-06-10T07:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/jade-facial-roller"/>
+    <title>Jade Facial Roller</title>
+    <s:type>Skin Care Tools</s:type>
+    <s:vendor>Athena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/jade-roller-01.jpg?v=1591801516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Athena<br>
+        <strong>Type : </strong>Skin Care Tools<br>
+        <strong>Prix : </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Take away the visible effects of late nights and early mornings with our natural Jade Face and Neck Roller. The beautifully designed roller massages the skin and underlying muscles to help stimulate lymph drainage.<br><br>The rolling motion boosts the elimination and reduction of accumulated toxins beneath the skin, giving you a fresh look as it battles persistent wrinkles and fine lines. Soothe your post work stress and elevate your evening skin care routine.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$20</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+      <title>Light pink</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+      <title>Dark sea green</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+    <published>2020-06-09T08:17:38-07:00</published>
+    <updated>2020-06-09T08:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/luna-day-peach-lipstick"/>
+    <title>Astro Space Lipstick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/luna-01.jpg?v=1625749725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Triple Luxe formula is long lasting, natural and moisturising. Enriched with Avocado, Jojoba Oils and Vitamins C and E, it provides deep hydration while creating a barrier to lock in moisture. It also works to reduce the appearance of fine lines and wrinkles, for a smooth and supple smile.</p>
+<p>Instructions for use: Smile and gently swirl color over the cheekbones. Apply directly to lips from the bullet or with a lip. Glide onto the heart of lips, working outward towards the corners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>candy apple</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>mahogany</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>dark cherry</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>magma</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024192055</id>
+    <published>2019-04-25T07:21:25-07:00</published>
+    <updated>2019-04-25T07:21:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/bloom-no-7"/>
+    <title>Bloom No.2</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Bloom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-01.jpg?v=1556202089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Bloom<br>
+        <strong>Type : </strong>Fragrance Oil<br>
+        <strong>Prix : </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Succulent vanilla and a timeless accord of cedarwood, sandalwood, amber and musk are richly woven in the intricate base to leave an alluring imprint. BloomNo.2has been crafted for the confident, modern-day woman who takes charge of her destiny. </span><span data-mce-fragment="1">The aromatic top notes of sweet rose and jasmine. </span></p>
+<p><span data-mce-fragment="1">Instructions for use: <br>Spritz onto pulse points <br><br>50ml/1.69fl.oz. </span>Made in Montréal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024192055</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+    <published>2019-04-25T07:21:09-07:00</published>
+    <updated>2019-04-25T07:21:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/bright-blush-powder"/>
+    <title>Bright Blush Powder</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Castle Beauty Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-01-01.jpg?v=1586342003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Castle Beauty Co.<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush.</p>
+<p>Instructions for use:<br>Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Most loved</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022914103</id>
+    <published>2019-04-25T07:21:01-07:00</published>
+    <updated>2019-04-25T07:21:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/microhabitat-rejuvenating-mask"/>
+    <title>Rejuvenating hair mask</title>
+    <s:type>Hair Care</s:type>
+    <s:vendor>Microhabitat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-care-08-2.jpg?v=1556202063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Microhabitat<br>
+        <strong>Type : </strong>Hair Care<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An intensive mask to restore, replenish and rejuvenate hair. Designed to quickly transform weak, dull, aged hair into strong, radiant and youthful looking hair. With eight of the most technologically advanced anti-ageing ingredients and is designed to reverse the visible signs of ageing leaving hair looking strong, radiant and youthful.</p>
+<ul>
+<li><span>100% natural</span></li>
+<li><span>Perfect for normal hair to oily hair</span></li>
+<li>
+<span>P</span>arabens and phthalates free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022914103</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

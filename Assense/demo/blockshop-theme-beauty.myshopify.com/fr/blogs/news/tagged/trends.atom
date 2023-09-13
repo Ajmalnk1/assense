@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/fr/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/tagged/trends.atom"/>
+  <title>Blockshop theme - Beauty - Beauty Blog</title>
+  <updated>2019-04-29T06:29:00-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/gang-glow-our-5-essential-eyeshadows-palettes</id>
+    <published>2019-03-16T05:55:00-07:00</published>
+    <updated>2019-09-04T11:42:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/gang-glow-our-5-essential-eyeshadows-palettes"/>
+    <title>Gang Glow — Our 5 essential eyeshadows palettes</title>
+    <author>
+      <name>Troop Themes</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>These are </span><span>five</span><span> of the latest and hottest releases that you may have missed out!</span><p><a class="read-more" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/gang-glow-our-5-essential-eyeshadows-palettes">Plus</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8"><meta charset="utf-8">
+<p><span>We all love new eyeshadow palette releases, and even more so if they are limited edition and come in pretty packaging that makes our vanity table look extra gorgeous. These are </span><span>five</span><span> of the latest and hottest releases that you may have missed out!</span></p>
+<p><span>Peach, lavender, chalky blue and blush pink – all were shades of sorbet and spun-sugar colour that dominated the faces of the models walking the spring/ summer runways. And if you know how to do it, it’s one of the season’s easiest (and prettiest) looks. </span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/0348/6821/files/Stocksy_txpb8b8bbdfmZJ200_Medium_2460263.jpg?v=1558361299" alt=""></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/face-of-fashion</id>
+    <published>2017-08-31T07:18:00-07:00</published>
+    <updated>2019-05-17T08:13:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/face-of-fashion"/>
+    <title>Fruit Pastels — Spring/summer Makeup Trends</title>
+    <author>
+      <name>Troop Themes</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Hold up, is that sunshine? Yes, spring is just around the corner and the time to rethink your beauty routine for the warmer weather is now.</span><p><a class="read-more" href="https://blockshop-theme-beauty.myshopify.com/fr/blogs/news/face-of-fashion">Plus</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<div class="article--content rte-content">
+<p>Hold up, is that sunshine? Yes, spring is just around the corner and the time to rethink your beauty routine for the warmer weather is now.</p>
+<p>You may remember all of the felt-tipped pen eyeliners on the market, used to create black graphic lines in sometimes improbable shapes and thicknesses. Rather than a punk look, these black lines were more of a neo-Baroque or even neo-Daliesque design.</p>
+<p>Now, the pendulum has swung the other way. Mid-toned pastels -- the candy shell colors -- are being used all over the face: lips, blush, eyeshadow and especially new for this year, eyeliner. Application is much more amorphous than in seasons past. What's also gone? It appears that obvious definition for eyes and (maybe even) cheek and eye socket contouring. Is that infamous Kim Kardashian trademark look gone? As evidenced by the celebrity's new pink hair look and pastel makeup, it may very well be! Astute observers will point out that she's matching this understated look with pastel contacts, as her natural color is a deeper, more defined -- and therefore, harsher looking -- black-brown. Years before, Nicole Richie's lavender hair was way ahead of the trend. The brown shading under the cheekbones look seems to have gone by the wayside.</p>
+<p>Our magazine attributes this sea change as evolving from such color concepts as mermaid hair, the unicorn food phenomenon and "millennial pink". If you don't what shade that is, it started with a few corporate marketers using a pinky peachy beige salmon shade in ads that seems to be free from gender lines. It's not just about one color now -- it's the ombre, rainbow and psychedelic mixture that's so fresh.</p>
+</div>
+<div class="article--navigation"></div>]]>
+    </content>
+  </entry>
+</feed>

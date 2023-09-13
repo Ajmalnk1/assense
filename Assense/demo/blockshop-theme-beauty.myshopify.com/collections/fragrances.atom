@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/collections/fragrances.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2019-04-25T07:21:25-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/1558024192055</id>
+    <published>2019-04-25T07:21:25-07:00</published>
+    <updated>2019-04-25T07:21:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/bloom-no-7"/>
+    <title>Bloom No.2</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Bloom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-01.jpg?v=1556202089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bloom<br>
+        <strong>Type: </strong>Fragrance Oil<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Succulent vanilla and a timeless accord of cedarwood, sandalwood, amber and musk are richly woven in the intricate base to leave an alluring imprint. BloomNo.2has been crafted for the confident, modern-day woman who takes charge of her destiny. </span><span data-mce-fragment="1">The aromatic top notes of sweet rose and jasmine. </span></p>
+<p><span data-mce-fragment="1">Instructions for use: <br>Spritz onto pulse points <br><br>50ml/1.69fl.oz. </span>Made in Montréal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558024192055</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/1558023798839</id>
+    <published>2019-04-25T07:21:18-07:00</published>
+    <updated>2019-04-25T07:21:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/blossom-sera-limited-edition-perfume"/>
+    <title>Sera perfume</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Blossom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-011.jpg?v=1618503467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blossom<br>
+        <strong>Type: </strong>Fragrance Oil<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mellow and sensual perfume, a profusion of flowers revealing the sensuality of gardenia, underscored by velvety notes of apricot blossom. It opens with tangerine, blackcurrant and freesia, then flows into a heart of jasmine and Bulgarian rose. </p>
+<meta charset="utf-8">
+<p><span>Instructions for use:<br></span>Spritz onto pulse point<br>50ml/ 1.69fl.oz.<br>Made in Brazil </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558023798839</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

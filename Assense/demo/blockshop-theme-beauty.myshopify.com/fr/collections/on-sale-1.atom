@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/fr/collections/on-sale-1.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2019-04-25T07:21:29-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+    <published>2019-04-25T07:21:29-07:00</published>
+    <updated>2019-04-25T07:21:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/blush-brush-matt-black"/>
+    <title>Blush brush matt black</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Fude Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-brush-01-1.jpg?v=1556202092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Fude Beauty<br>
+        <strong>Type : </strong>Makeup Brushes<br>
+        <strong>Prix : </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush. <br><br>Instructions for use: Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face long the top of cheekbones, down the bridge of the nose and on the brow line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023962679</id>
+    <published>2019-04-25T07:21:22-07:00</published>
+    <updated>2019-04-25T07:21:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/whitewater-hydra-repair-mask"/>
+    <title>Hydra repair mask</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Whitewater</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-cream-02-01.jpg?v=1556202084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Whitewater<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">This benefit-packed tinted moisturizer delivers lightweight hydration, a hint of sheer coverage, SPF 20 protection, and a luminous dewy glow. It also includes black currant, peony flower root extract, and vitamin C to enhance skin brightness and sodium hyaluronate to promote firmer, smoother-looking skin. </span></p>
+<p><span data-mce-fragment="1">Instructions for use: <br>Apply to cleansed and moisturized skin, blending gently with fingertips for light, even coverage.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Castor Oil</s:tag>
+    <s:tag>Collagen</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Squalane</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:tag>Vitamin E</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023962679</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023798839</id>
+    <published>2019-04-25T07:21:18-07:00</published>
+    <updated>2019-04-25T07:21:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/blossom-sera-limited-edition-perfume"/>
+    <title>Sera perfume</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Blossom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-011.jpg?v=1618503467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Blossom<br>
+        <strong>Type : </strong>Fragrance Oil<br>
+        <strong>Prix : </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mellow and sensual perfume, a profusion of flowers revealing the sensuality of gardenia, underscored by velvety notes of apricot blossom. It opens with tangerine, blackcurrant and freesia, then flows into a heart of jasmine and Bulgarian rose. </p>
+<meta charset="utf-8">
+<p><span>Instructions for use:<br></span>Spritz onto pulse point<br>50ml/ 1.69fl.oz.<br>Made in Brazil </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023798839</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+    <published>2019-04-25T07:20:48-07:00</published>
+    <updated>2019-04-25T07:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/space-glow-eyeshadow"/>
+    <title>Space glow eyeshadow</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-03-01.jpg?v=1556202051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Iconic stardust-inspired palette with 12 intensely-pigmented shades designed for every occasion and every mood.</span></p>
+<p><span>Shades: </span><span>White Noise, Metal Strange Magic, Higher Ground, Metal Electric Plum, Metal Violet Hour, Shimmer High Fidelity, Sparkle Twisted Violet, Black Charcoal. <br><br>Instructions for use:<br></span>Apply the highlighter from the brow bone, gliding down the center of the nose, across cheekbones and the bow of the lips Sweep the bronzer across cheek hollows, sides and the tip of your nose. Blend after application.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best seller ♥️</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

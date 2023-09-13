@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/collections/skin-care.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2021-07-08T06:28:28-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/6577873190967</id>
+    <published>2021-07-08T06:28:28-07:00</published>
+    <updated>2021-07-08T06:28:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/orsen-spot-treatment"/>
+    <title>ORSEN Spot Treatment</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-spot.jpg?v=1625750923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ORSEN<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ORSEN's tinted anti-bacterial Clarifying Spot Treatments are essential for your makeup bag and designed to cover up blemishes and other signs of irritation. Currently available in eight shades (00-07) and formulated with an active complex of macular bioflavonoids, tea tree oil and zinc oxides, the Clarifying Spot Treatments help to diminish unwanted impurities.<br data-mce-fragment="1"><br data-mce-fragment="1">The Clarifying Spot Treatment is also available in a transparent formula.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/6577873190967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/6577870995511</id>
+    <published>2021-07-08T05:57:50-07:00</published>
+    <updated>2021-07-08T05:57:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/orsen-luxe-face-cream"/>
+    <title>Luxe Face Cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-01_1800x_473e5b9a-0603-44be-af20-2b73a2a782fd.jpg?v=1639577143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ORSEN<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a Beyond Beauty product which means it has been sourced, tried and tested and finally declared one of the most new and innovative heroes out there.<br><br>ORSEN's anti-aging Face Cream will keep your skin hydrated and firm throughout the day. When used at night, you awaken to healthy-looking and refreshed skin 24/7. It quickly absorbs into the skin to give your complexion a radiant glow. Skullcap and Purslane are anti-aging powerhouses that help calm the skin and reduce visible signs of irritation.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/6577870995511</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/4669792452663</id>
+    <published>2021-01-26T05:44:51-08:00</published>
+    <updated>2021-01-26T05:44:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/brightening-serum"/>
+    <title>Brightening Serum</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>TIPTOE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/tiptoe-01.jpg?v=1625749839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TIPTOE<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            70.00 - 135.00
+            <a href="https://blockshop-theme-beauty.myshopify.com/products/brightening-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deeply exfoliates the dull surface of the skin for instant glow and radiance. As dull, dead surface cells are removed, clarity and smoothness is gradually restored. Visibly brightens the appearance of dark spots and discolourations. Instantly plumps the look of fine lines and wrinkles. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50-$100</s:tag>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Castor Oil</s:tag>
+    <s:tag>Collagen</s:tag>
+    <s:tag>Lactic Acid</s:tag>
+    <s:tag>Over $100</s:tag>
+    <s:tag>Retinol</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Squalane</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:tag>Vitamin E</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/4669792452663</id>
+      <title>75ml</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/4669792452663</id>
+      <title>200ml</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/4557616250935</id>
+    <published>2020-06-10T07:19:11-07:00</published>
+    <updated>2020-06-10T07:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/jade-facial-roller"/>
+    <title>Jade Facial Roller</title>
+    <s:type>Skin Care Tools</s:type>
+    <s:vendor>Athena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/jade-roller-01.jpg?v=1591801516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Athena<br>
+        <strong>Type: </strong>Skin Care Tools<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Take away the visible effects of late nights and early mornings with our natural Jade Face and Neck Roller. The beautifully designed roller massages the skin and underlying muscles to help stimulate lymph drainage.<br><br>The rolling motion boosts the elimination and reduction of accumulated toxins beneath the skin, giving you a fresh look as it battles persistent wrinkles and fine lines. Soothe your post work stress and elevate your evening skin care routine.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$20</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/4557616250935</id>
+      <title>Light pink</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/4557616250935</id>
+      <title>Dark sea green</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/1558023110711</id>
+    <published>2019-04-25T07:21:03-07:00</published>
+    <updated>2019-04-25T07:21:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/oat-and-juniper-hand-cream"/>
+    <title>Oat and juniper hand cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Venus Varda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-care-06-1.jpg?v=1556202066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Venus Varda<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enriched with Shea Butter and Vitamin E, Venus Varda Hand Cream nourishes and protects hands from daily aggressions. They are soft, moisturised and delicately perfumed with Cherry Blossom’s fresh and floral scent. This versatile moisturizer can be used on the face, hands or body. <br><br>Instructions for use: <br>Apply a small amount to hands, body or eye area and massage gently into skin. Mix with foundation to use as a tinted moisturizer.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558023110711</id>
+      <title>200ml</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558023110711</id>
+      <title>500ml</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/1558022914103</id>
+    <published>2019-04-25T07:21:01-07:00</published>
+    <updated>2019-04-25T07:21:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/microhabitat-rejuvenating-mask"/>
+    <title>Rejuvenating hair mask</title>
+    <s:type>Hair Care</s:type>
+    <s:vendor>Microhabitat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-care-08-2.jpg?v=1556202063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microhabitat<br>
+        <strong>Type: </strong>Hair Care<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An intensive mask to restore, replenish and rejuvenate hair. Designed to quickly transform weak, dull, aged hair into strong, radiant and youthful looking hair. With eight of the most technologically advanced anti-ageing ingredients and is designed to reverse the visible signs of ageing leaving hair looking strong, radiant and youthful.</p>
+<ul>
+<li><span>100% natural</span></li>
+<li><span>Perfect for normal hair to oily hair</span></li>
+<li>
+<span>P</span>arabens and phthalates free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558022914103</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/products/1558022619191</id>
+    <published>2019-04-25T07:20:56-07:00</published>
+    <updated>2019-04-25T07:20:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/products/quicksand-conditioning-mask"/>
+    <title>Conditioning mask</title>
+    <s:type>Hair Care</s:type>
+    <s:vendor>Quicksand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/hair-care-05-1.jpg?v=1556202058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quicksand<br>
+        <strong>Type: </strong>Hair Care<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>I</span>ndulge yourself with a spa-like treatment from Quicksand. Developed with a vitamin-rich blend of natural ingredients, the mask is ideal for dry, flaky lips. This leave-on mask features Shea Butter and Jojoba Oil to promote fullness, reduce the appearance of fine lines and restore smooth, supple lips.</p>
+<p>100% natural<br>Perfect for normal hair to oily hair<br><span>P</span>arabens and phthalates free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Lactic Acid</s:tag>
+    <s:tag>Retinol</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558022619191</id>
+      <title>Bottle 200ml</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/products/1558022619191</id>
+      <title>Single-use x10</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

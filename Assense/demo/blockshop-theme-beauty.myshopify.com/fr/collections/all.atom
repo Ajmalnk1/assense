@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blockshop-theme-beauty.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blockshop-theme-beauty.myshopify.com/fr/collections/all.atom"/>
+  <title>Blockshop theme - Beauty</title>
+  <updated>2021-10-12T06:10:05-07:00</updated>
+  <author>
+    <name>Blockshop theme - Beauty</name>
+  </author>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6602826350647</id>
+    <published>2021-10-12T06:10:05-07:00</published>
+    <updated>2021-10-12T06:10:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/precision-cut-sponge"/>
+    <title>Precision cut sponge</title>
+    <s:type></s:type>
+    <s:vendor>Blockshop theme - Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/SPONGE-01_1800x_8c7d64c5-150e-4eea-98d4-fe2cea2ab497.jpg?v=1634043783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Blockshop theme - Beauty<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Talented in the realms of application, blending and perfecting, The Sponge boasts four precision-cut surfaces that help you to achieve a flawless, professional-effect finish across your entire face.<br data-mce-fragment="1"><br data-mce-fragment="1">This ultra-versatile tool is custom-created for use with fluid and cream-based foundation, concealer, contour and blush. Made in collaboration with Clac de Peau Beautac's make up artists, it has a luxuriously soft, cloud-like texture that makes it a joy to use, as well as an innovative design: the curved side is crafted to fit facial contours to ensure even application to your full face; the small flat side works precisely to diffuse blush and contour; the tip is perfect for intricate areas such as the side of your nose or beneath your eyes; finally, the bottom surface is suited to blending all formulas with a light dabbing motion. You can use dry for a medium, natural coverage or dampen for a light and dewy look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6602826350647</id>
+      <title>Apricot / 3 Pack</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6602826350647</id>
+      <title>Purple / 3 Pack</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577873190967</id>
+    <published>2021-07-08T06:28:28-07:00</published>
+    <updated>2021-07-08T06:28:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/orsen-spot-treatment"/>
+    <title>ORSEN Spot Treatment</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-spot.jpg?v=1625750923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>ORSEN<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ORSEN's tinted anti-bacterial Clarifying Spot Treatments are essential for your makeup bag and designed to cover up blemishes and other signs of irritation. Currently available in eight shades (00-07) and formulated with an active complex of macular bioflavonoids, tea tree oil and zinc oxides, the Clarifying Spot Treatments help to diminish unwanted impurities.<br data-mce-fragment="1"><br data-mce-fragment="1">The Clarifying Spot Treatment is also available in a transparent formula.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577873190967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577870995511</id>
+    <published>2021-07-08T05:57:50-07:00</published>
+    <updated>2021-07-08T05:57:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/orsen-luxe-face-cream"/>
+    <title>Luxe Face Cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>ORSEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/orsen-01_1800x_473e5b9a-0603-44be-af20-2b73a2a782fd.jpg?v=1639577143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>ORSEN<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a Beyond Beauty product which means it has been sourced, tried and tested and finally declared one of the most new and innovative heroes out there.<br><br>ORSEN's anti-aging Face Cream will keep your skin hydrated and firm throughout the day. When used at night, you awaken to healthy-looking and refreshed skin 24/7. It quickly absorbs into the skin to give your complexion a radiant glow. Skullcap and Purslane are anti-aging powerhouses that help calm the skin and reduce visible signs of irritation.<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/6577870995511</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4669792452663</id>
+    <published>2021-01-26T05:44:51-08:00</published>
+    <updated>2021-01-26T05:44:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/brightening-serum"/>
+    <title>Brightening Serum</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>TIPTOE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/tiptoe-01.jpg?v=1625749839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>TIPTOE<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            70.00 - 135.00
+            <a href="https://blockshop-theme-beauty.myshopify.com/fr/products/brightening-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deeply exfoliates the dull surface of the skin for instant glow and radiance. As dull, dead surface cells are removed, clarity and smoothness is gradually restored. Visibly brightens the appearance of dark spots and discolourations. Instantly plumps the look of fine lines and wrinkles. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$50-$100</s:tag>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Castor Oil</s:tag>
+    <s:tag>Collagen</s:tag>
+    <s:tag>Lactic Acid</s:tag>
+    <s:tag>Over $100</s:tag>
+    <s:tag>Retinol</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Squalane</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:tag>Vitamin E</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4669792452663</id>
+      <title>75ml</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4669792452663</id>
+      <title>200ml</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+    <published>2020-11-11T09:09:47-08:00</published>
+    <updated>2020-11-11T09:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/nailboi-neutral-nail-polish"/>
+    <title>Nailboi Neutral Nail Polish</title>
+    <s:type>Nail Polishes</s:type>
+    <s:vendor>Nailboi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/nails--sea-nyph-01.jpg?v=1605114578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Nailboi<br>
+        <strong>Type : </strong>Nail Polishes<br>
+        <strong>Prix : </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">3-in-1 Colour technology that combines a base coat, rich colour and glossy top coat in one stroke, the nail varnish paints your tips with flawless, long-lasting and quick-drying colour that resists chips and fading for up to 10 days. Expect a professional, salon-worthy mani and pedi in 60 seconds.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$20</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Sea Nymph</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Flamingo</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4634275315767</id>
+      <title>Topless</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+    <published>2020-06-10T07:19:11-07:00</published>
+    <updated>2020-06-10T07:19:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/jade-facial-roller"/>
+    <title>Jade Facial Roller</title>
+    <s:type>Skin Care Tools</s:type>
+    <s:vendor>Athena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/jade-roller-01.jpg?v=1591801516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Athena<br>
+        <strong>Type : </strong>Skin Care Tools<br>
+        <strong>Prix : </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Take away the visible effects of late nights and early mornings with our natural Jade Face and Neck Roller. The beautifully designed roller massages the skin and underlying muscles to help stimulate lymph drainage.<br><br>The rolling motion boosts the elimination and reduction of accumulated toxins beneath the skin, giving you a fresh look as it battles persistent wrinkles and fine lines. Soothe your post work stress and elevate your evening skin care routine.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$20</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+      <title>Light pink</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4557616250935</id>
+      <title>Dark sea green</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+    <published>2020-06-09T08:17:38-07:00</published>
+    <updated>2020-06-09T08:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/luna-day-peach-lipstick"/>
+    <title>Astro Space Lipstick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/luna-01.jpg?v=1625749725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Triple Luxe formula is long lasting, natural and moisturising. Enriched with Avocado, Jojoba Oils and Vitamins C and E, it provides deep hydration while creating a barrier to lock in moisture. It also works to reduce the appearance of fine lines and wrinkles, for a smooth and supple smile.</p>
+<p>Instructions for use: Smile and gently swirl color over the cheekbones. Apply directly to lips from the bullet or with a lip. Glide onto the heart of lips, working outward towards the corners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>candy apple</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>mahogany</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>dark cherry</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558021832759</id>
+      <title>magma</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4537270075447</id>
+    <published>2020-05-21T09:59:54-07:00</published>
+    <updated>2020-05-21T09:59:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/gift-card"/>
+    <title>Beauty Club gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Beauty Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/bc-beauty-card.png?v=1591714915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Beauty Brand<br>
+        <strong>Type : </strong>Gift Card<br>
+        <strong>Prix : </strong>
+            25.00 - 100.00
+            <a href="https://blockshop-theme-beauty.myshopify.com/fr/products/gift-card">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them?<br>Give them the gift of choice with a Beauty Club gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout.<br>Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4537270075447</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4537270075447</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/4537270075447</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+    <published>2019-04-25T07:21:29-07:00</published>
+    <updated>2019-04-25T07:21:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/blush-brush-matt-black"/>
+    <title>Blush brush matt black</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Fude Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-brush-01-1.jpg?v=1556202092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Fude Beauty<br>
+        <strong>Type : </strong>Makeup Brushes<br>
+        <strong>Prix : </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush. <br><br>Instructions for use: Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face long the top of cheekbones, down the bridge of the nose and on the brow line.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024290359</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024192055</id>
+    <published>2019-04-25T07:21:25-07:00</published>
+    <updated>2019-04-25T07:21:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/bloom-no-7"/>
+    <title>Bloom No.2</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Bloom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-01.jpg?v=1556202089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Bloom<br>
+        <strong>Type : </strong>Fragrance Oil<br>
+        <strong>Prix : </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Succulent vanilla and a timeless accord of cedarwood, sandalwood, amber and musk are richly woven in the intricate base to leave an alluring imprint. BloomNo.2has been crafted for the confident, modern-day woman who takes charge of her destiny. </span><span data-mce-fragment="1">The aromatic top notes of sweet rose and jasmine. </span></p>
+<p><span data-mce-fragment="1">Instructions for use: <br>Spritz onto pulse points <br><br>50ml/1.69fl.oz. </span>Made in Montréal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558024192055</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023962679</id>
+    <published>2019-04-25T07:21:22-07:00</published>
+    <updated>2019-04-25T07:21:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/whitewater-hydra-repair-mask"/>
+    <title>Hydra repair mask</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Whitewater</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-cream-02-01.jpg?v=1556202084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Whitewater<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">This benefit-packed tinted moisturizer delivers lightweight hydration, a hint of sheer coverage, SPF 20 protection, and a luminous dewy glow. It also includes black currant, peony flower root extract, and vitamin C to enhance skin brightness and sodium hyaluronate to promote firmer, smoother-looking skin. </span></p>
+<p><span data-mce-fragment="1">Instructions for use: <br>Apply to cleansed and moisturized skin, blending gently with fingertips for light, even coverage.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Castor Oil</s:tag>
+    <s:tag>Collagen</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Squalane</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:tag>Vitamin E</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023962679</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023864375</id>
+    <published>2019-04-25T07:21:20-07:00</published>
+    <updated>2019-04-25T07:21:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/rouge-noir-lipstick"/>
+    <title>Rouge Noir Lipstick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/lipstick-02-01.jpg?v=1591799606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Infused with optical diffusers to blur the appearance of imperfections, and saturates your pout in a lightweight veil of opaque lilac color. Enriched with vitamins A &amp; E, aloe vera, it really feels like putting silk on your lips. This lipstick now features added macadamia nut oil that contains antioxidants for a smooth, supple pout. <br><br>Instructions for use: Sweep the color over the lips direct from the bullet. Work the color from the heart of the lips to the corners.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023864375</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023798839</id>
+    <published>2019-04-25T07:21:18-07:00</published>
+    <updated>2019-04-25T07:21:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/blossom-sera-limited-edition-perfume"/>
+    <title>Sera perfume</title>
+    <s:type>Fragrance Oil</s:type>
+    <s:vendor>Blossom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/perfume-01-011.jpg?v=1618503467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Blossom<br>
+        <strong>Type : </strong>Fragrance Oil<br>
+        <strong>Prix : </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A mellow and sensual perfume, a profusion of flowers revealing the sensuality of gardenia, underscored by velvety notes of apricot blossom. It opens with tangerine, blackcurrant and freesia, then flows into a heart of jasmine and Bulgarian rose. </p>
+<meta charset="utf-8">
+<p><span>Instructions for use:<br></span>Spritz onto pulse point<br>50ml/ 1.69fl.oz.<br>Made in Brazil </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023798839</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023733303</id>
+    <published>2019-04-25T07:21:12-07:00</published>
+    <updated>2019-04-25T07:21:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/am-to-pm-mascara"/>
+    <title>AM to PM Mascara</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>AM TO PM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/mascara-02-1.jpg?v=1556202078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>AM TO PM<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>From the first sweep of the brush, the gentle, creamy and elastic formula creates significantly thicker lashes. Infused with a conditioning action to protect the lashes, it is enriched with adhesive oils to prevent running or smudging and ultra-glossy oils for an intense black.</p>
+<p>Instructions for use:<br>- Starting from the inner corner, rest brush in the lash root and comb up to coat and separate each lash<br>- For added volume, nestle the tip of the brush in the root and brush upwards<br>- 8ml/0.27 fl.oz. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023733303</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+    <published>2019-04-25T07:21:09-07:00</published>
+    <updated>2019-04-25T07:21:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/bright-blush-powder"/>
+    <title>Bright Blush Powder</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Castle Beauty Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/blush-01-01.jpg?v=1586342003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Castle Beauty Co.<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer and buildable, 'Free Soul' is a pale-pink powder that's infused with light-catching particles to give you a natural glow. Natural, healthy-looking colour that immediately enlivens the complexion. A light application of even the highest-intensity hues delivers a natural-looking flush.</p>
+<p>Instructions for use:<br>Smile and gently swirl color over the cheekbones. For an all-over glow, lightly dust powder wherever the sun hits your face.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Most loved</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023438391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023110711</id>
+    <published>2019-04-25T07:21:03-07:00</published>
+    <updated>2019-04-25T07:21:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/oat-and-juniper-hand-cream"/>
+    <title>Oat and juniper hand cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>Venus Varda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-care-06-1.jpg?v=1556202066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Venus Varda<br>
+        <strong>Type : </strong>Skin Care<br>
+        <strong>Prix : </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enriched with Shea Butter and Vitamin E, Venus Varda Hand Cream nourishes and protects hands from daily aggressions. They are soft, moisturised and delicately perfumed with Cherry Blossom’s fresh and floral scent. This versatile moisturizer can be used on the face, hands or body. <br><br>Instructions for use: <br>Apply a small amount to hands, body or eye area and massage gently into skin. Mix with foundation to use as a tinted moisturizer.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023110711</id>
+      <title>200ml</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558023110711</id>
+      <title>500ml</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022914103</id>
+    <published>2019-04-25T07:21:01-07:00</published>
+    <updated>2019-04-25T07:21:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/microhabitat-rejuvenating-mask"/>
+    <title>Rejuvenating hair mask</title>
+    <s:type>Hair Care</s:type>
+    <s:vendor>Microhabitat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/skin-care-08-2.jpg?v=1556202063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Microhabitat<br>
+        <strong>Type : </strong>Hair Care<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An intensive mask to restore, replenish and rejuvenate hair. Designed to quickly transform weak, dull, aged hair into strong, radiant and youthful looking hair. With eight of the most technologically advanced anti-ageing ingredients and is designed to reverse the visible signs of ageing leaving hair looking strong, radiant and youthful.</p>
+<ul>
+<li><span>100% natural</span></li>
+<li><span>Perfect for normal hair to oily hair</span></li>
+<li>
+<span>P</span>arabens and phthalates free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022914103</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022619191</id>
+    <published>2019-04-25T07:20:56-07:00</published>
+    <updated>2019-04-25T07:20:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/quicksand-conditioning-mask"/>
+    <title>Conditioning mask</title>
+    <s:type>Hair Care</s:type>
+    <s:vendor>Quicksand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/hair-care-05-1.jpg?v=1556202058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Quicksand<br>
+        <strong>Type : </strong>Hair Care<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>I</span>ndulge yourself with a spa-like treatment from Quicksand. Developed with a vitamin-rich blend of natural ingredients, the mask is ideal for dry, flaky lips. This leave-on mask features Shea Butter and Jojoba Oil to promote fullness, reduce the appearance of fine lines and restore smooth, supple lips.</p>
+<p>100% natural<br>Perfect for normal hair to oily hair<br><span>P</span>arabens and phthalates free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHAs</s:tag>
+    <s:tag>Antibacterial</s:tag>
+    <s:tag>Lactic Acid</s:tag>
+    <s:tag>Retinol</s:tag>
+    <s:tag>Rosehip</s:tag>
+    <s:tag>Vitamin A</s:tag>
+    <s:tag>Vitamin B</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022619191</id>
+      <title>Bottle 200ml</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022619191</id>
+      <title>Single-use x10</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022488119</id>
+    <published>2019-04-25T07:20:54-07:00</published>
+    <updated>2019-04-25T07:20:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/mont-earl-base-concealer"/>
+    <title>Base Concealer</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Mont Earl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-01-01.jpg?v=1556202056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Mont Earl<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dark circles, redness, and other imperfections are no match for this buildable, medium-coverage concealer. In addition to providing flawless coverage, it’s formulated with knotgrass extract to help reduce the appearance of fine lines and photoaging—so skin looks firmer, brighter, and instantly more even. The click-pen design and brush applicator make it easy to apply just the right amount exactly where you need it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022488119</id>
+      <title>Bottle 200ml</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022488119</id>
+      <title>Single-use x10</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+    <published>2019-04-25T07:20:51-07:00</published>
+    <updated>2019-04-25T07:20:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/swirl-lip-gloss"/>
+    <title>Swirl Lip Gloss</title>
+    <s:type>Lip Gloss</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-02-01.jpg?v=1556202054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Lip Gloss<br>
+        <strong>Prix : </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This creamy opaque gloss is enriched with lustrous Marine Collagen and Mustard Sprout Extract to replenish moisture, soften lines and enhance lips' natural plump. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+      <title>Bottle 200ml</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022422583</id>
+      <title>Single-use x10</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+    <published>2019-04-25T07:20:48-07:00</published>
+    <updated>2019-04-25T07:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blockshop-theme-beauty.myshopify.com/fr/products/space-glow-eyeshadow"/>
+    <title>Space glow eyeshadow</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Luna Day</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0348/6821/products/makeup-03-01.jpg?v=1556202051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Luna Day<br>
+        <strong>Type : </strong>Makeup<br>
+        <strong>Prix : </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Iconic stardust-inspired palette with 12 intensely-pigmented shades designed for every occasion and every mood.</span></p>
+<p><span>Shades: </span><span>White Noise, Metal Strange Magic, Higher Ground, Metal Electric Plum, Metal Violet Hour, Shimmer High Fidelity, Sparkle Twisted Violet, Black Charcoal. <br><br>Instructions for use:<br></span>Apply the highlighter from the brow bone, gliding down the center of the nose, across cheekbones and the bow of the lips Sweep the bronzer across cheek hollows, sides and the tip of your nose. Blend after application.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best seller ♥️</s:tag>
+    <s:variant>
+      <id>https://blockshop-theme-beauty.myshopify.com/fr/products/1558022062135</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
